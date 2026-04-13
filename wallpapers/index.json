@@ -53,5 +53,31 @@
             "credit": "Private Talky"
          }
       ]
+      {
+      "name": "gradient",
+      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/radiance.jpg",
+      "link": "https://radiancewallpapers.com/",
+      "images": [
+         {
+            "id": "radiance:100",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:100.jpg",
+            "credit": "Asher Dipprey"
+         },
+         {
+            "id": "radiance:101",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:101.jpg",
+            "credit": "Asher Dipprey"
+         },
+         {
+            "id": "radiance:102",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:102.jpg",
+            "credit": "Aiden Johnson"
+         },
+         {
+            "id": "radiance:103",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:103.jpg",
+            "credit": "Private Talky"
+         }
+      ]
    }
 ]
